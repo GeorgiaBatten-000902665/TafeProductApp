@@ -40,11 +40,8 @@ namespace Calculator
 
 		private void CurrencyButton_Clickk(object sender, RoutedEventArgs e)
 		{
-			this.Frame.Navigate(typeof(Menu));
+
 
 		}
-
-
-
 	}
 }
