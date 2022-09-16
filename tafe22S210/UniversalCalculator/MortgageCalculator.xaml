@@ -14,17 +14,17 @@
         </Grid.Background>
         <TextBlock x:Name="name_of_comapny" HorizontalAlignment="Left" Margin="656,366,0,0" Text="Mortgage Calculator" TextWrapping="Wrap" VerticalAlignment="Top" Width="562" FontWeight="Bold" FontStyle="Italic" FontSize="35"/>
         <TextBox x:Name="principalBorrowTextBox" HorizontalAlignment="Left" Margin="851,449,0,0" Text="1000000" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Background="#66F0E511" />
-        <TextBlock HorizontalAlignment="Center" Margin="30,449,0,0" Text="Principal borrow $:" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.072,0.447" SelectionChanged="TextBlock_SelectionChanged"/>
+        <TextBlock HorizontalAlignment="Center" Margin="30,449,0,0" Text="Principal borrow $:" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.072,0.447"/>
         <TextBlock HorizontalAlignment="Center" Margin="32,505,0,0" Text="Years :" TextWrapping="Wrap" VerticalAlignment="Top" />
         <TextBlock HorizontalAlignment="Center" Margin="32,567,0,0" Text="And Moths" TextWrapping="Wrap" VerticalAlignment="Top"/>
         <TextBox x:Name="yearsTextBox" HorizontalAlignment="Left" Margin="851,505,0,0" Text="30" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.581,-0.078" Width="108" Background="#66F3E90D"/>
         <TextBlock HorizontalAlignment="Left" Margin="699,635,0,0" Text="Yearly Intrest Rate" TextWrapping="Wrap" VerticalAlignment="Top"/>
         <TextBox x:Name="MothsTextBox" HorizontalAlignment="Left" Margin="851,560,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.581,-0.078" Width="108" Background="#66F3E90D"/>
         <TextBox x:Name="yearlyIntrestRateTextBox" HorizontalAlignment="Left" Margin="851,628,0,0" Text="3.5" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Background="#66F5D714"/>
-        <TextBlock HorizontalAlignment="Left" Margin="694,0,0,296" Text="Monthly Interst Rate :" TextWrapping="Wrap" VerticalAlignment="Bottom" RenderTransformOrigin="-0.072,0.447" SelectionChanged="TextBlock_SelectionChanged"/>
+        <TextBlock HorizontalAlignment="Left" Margin="694,0,0,296" Text="Monthly Interst Rate :" TextWrapping="Wrap" VerticalAlignment="Bottom" RenderTransformOrigin="-0.072,0.447"/>
 		<TextBox x:Name="MonthlyIntrestRaateTextBox" HorizontalAlignment="Left" Margin="852,678,0,0" Text="0.0029%" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Background="#66F5D714"/>
 
-        <TextBlock HorizontalAlignment="Left" Margin="699,0,0,243" Text="Monthly Repayment $ :" TextWrapping="Wrap" VerticalAlignment="Bottom" RenderTransformOrigin="-0.072,0.447" SelectionChanged="TextBlock_SelectionChanged"/>
+        <TextBlock HorizontalAlignment="Left" Margin="699,0,0,243" Text="Monthly Repayment $ :" TextWrapping="Wrap" VerticalAlignment="Bottom" RenderTransformOrigin="-0.072,0.447"/>
         <TextBox x:Name="MonthlyRepaymentIntrestAmountTextBox" HorizontalAlignment="Left" Margin="852,731,0,0" Text="4.490.45" TextWrapping="Wrap" VerticalAlignment="Top" Width="108" Background="#66F5D714"/>
 
 
