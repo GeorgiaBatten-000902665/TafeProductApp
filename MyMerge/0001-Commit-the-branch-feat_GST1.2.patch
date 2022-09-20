@@ -1,0 +1,20 @@
+From 5e7165a01d9b9a94f739c9966d776777d3a3115e Mon Sep 17 00:00:00 2001
+From: Georgia <Georgia.BATTEN@student.tafesa.edu.au>
+Date: Tue, 20 Sep 2022 18:30:23 +1000
+Subject: [PATCH] Commit the branch feat_GST1.2
+
+---
+ MyGST/TafeProductApp | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 160000 MyGST/TafeProductApp
+
+diff --git a/MyGST/TafeProductApp b/MyGST/TafeProductApp
+new file mode 160000
+index 0000000..f07f8dc
+--- /dev/null
++++ b/MyGST/TafeProductApp
+@@ -0,0 +1 @@
++Subproject commit f07f8dc5d8b2bf671bbf054a6071a8acba69c725
+-- 
+2.37.3.windows.1
+
